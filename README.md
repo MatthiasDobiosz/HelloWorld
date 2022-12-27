@@ -4,7 +4,7 @@
 
  ## Voraussetzungen
  
- - Lokal installierte Node.js Version
+ - Lokal installierte Node.js Version (https://nodejs.org/en/)
  - einen lokalen Kommandozeileninterpreter
  
  ## Ausführen des Programms
